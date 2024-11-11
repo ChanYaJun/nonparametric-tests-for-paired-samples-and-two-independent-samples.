@@ -1,1 +1,0 @@
-# nonparametric-tests-for-paired-samples-and-two-independent-samples.
